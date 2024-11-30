@@ -24,5 +24,5 @@ Before running the application, make sure to install the required dependencies l
 1. **Clone the repository** (or copy the project files):
 
    ```bash
-   git clone <your-repository-url>
-   cd <your-project-directory>
+   git clone "https://github.com/toromayuri98/BrainerHub_Solution-Assisment.git"
+
